@@ -34,7 +34,7 @@ This project uses Deep Q-Learning to train an AI agent to play the Chrome Dino g
 - Python 3
 - PyTorch
 - NumPy
-- OpenAI Gym (if integrated)
+- OpenAI Gym
 - Pygame (for game environment)
 
 ## 🛠️ Getting Started
