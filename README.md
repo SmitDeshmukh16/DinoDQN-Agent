@@ -11,7 +11,11 @@ This project uses Deep Q-Learning to train an AI agent to play the Chrome Dino g
 
 ```
 📁 DinoDQN-Agent/
-├── Dino_game.py         # Custom Dino game environment
+├──gym_env
+    └── dino_gym_env     #Gym Enviorment
+├──models
+    └── model.py         #DQN Model
+├── Dino_game.py         # Dino Py Game
 ├── train_dqn.py         # DQN training script
 ├── test_dqn.py          # DQN evaluation script
 ├── requirements.txt     # Python dependencies
